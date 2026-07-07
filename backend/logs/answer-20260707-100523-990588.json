@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-07-07T10:05:23",
+  "lang": "de",
+  "question": "Welche Regeln, Pflichten und nächsten Schritte gelten für mein Vorhaben (pv) an diesem Standort?",
+  "context": {
+    "address": "38106 braunschweig",
+    "lat": 52.2800121,
+    "lon": 10.5365403,
+    "plz": "38106",
+    "state": "NI",
+    "grid_operator": "BS|Netz",
+    "building_type": "single_family",
+    "usage": "residential",
+    "roof_area_m2": 11.0,
+    "roof_azimuth_deg": 6.0,
+    "roof_tilt_deg": 3.0,
+    "shading": "medium",
+    "annual_consumption_kwh": 3.0,
+    "measures": [
+      "pv"
+    ],
+    "planned_pv_kwp": 8.0,
+    "existing_pv": false,
+    "existing_pv_commissioning": "2026-07-09"
+  },
+  "out_of_scope": false,
+  "cached": false,
+  "answer": "**Aktuell geltend für Ihr Projekt:**\n- In Niedersachsen sind Solaranlagen in, an und auf Dach- und Außenwandflächen von Gebäuden (keine Hochhäuser) verfahrensfrei (§ 60 i. V. m. Anhang NBauO, § 32a NBauO) — für eine dachparallele PV-Anlage auf einem Einfamilienhaus ist also in der Regel KEINE Baugenehmigung erforderlich. [nbauo-pv-verfahrensfrei]\n- Seit 01.01.2025 gilt in Niedersachsen eine PV-Pflicht: Bei Neubauten mit mindestens 50 m² Dachfläche müssen mindestens 50 % der Dachfläche mit einer Photovoltaikanlage belegt werden; schrittweise gilt dies auch bei bestimmten grundlegenden Dachsanierungen im Bestand. [nbauo-pv-pflicht-neubau]\n- Nach dem Messstellenbetriebsgesetz (MsbG) und dem Solarspitzengesetz ist für neue PV-Anlagen über 7 kW (sowie bei § 14a-Anlagen und hohem Stromverbrauch) ein intelligentes Messsystem mit Steuerbarkeit vorzusehen. Erst damit entfällt die 60 %-Einspeisebegrenzung. [msbg-smartmeter-pflicht]\n- Die KfW fördert PV-Anlagen, Batteriespeicher und Ladestationen über den Kredit 270 „Erneuerbare Energien – Standard“ mit bis zu 100 % der Investitionskosten (auch Planung/Installation). Die Beantragung läuft vor Vertragsabschluss über die eigene Hausbank; Laufzeiten 5–30 Jahre. [kfw-270-foerderkredit]\n- Im Netzgebiet Braunschweig ist BS|NETZ der Verteilnetzbetreiber. Jede PV-Anlage muss vor Inbetriebnahme bei BS|NETZ angemeldet und nach VDE-AR-N 4105 durch einen eingetragenen Elektrofachbetrieb angeschlossen werden; BS|NETZ führt eine Netzverträglichkeitsprüfung durch. In der Regel übernimmt der Installateur Anmeldung und Fertigmeldung. [bsnetz-pv-anmeldung-vde4105]\n- Für neue PV-Anlagen mit Überschusseinspeisung (Teileinspeisung) gelten bei Inbetriebnahme zwischen 01.02.2026 und 31.07.2026 feste Vergütungssätze: 7,78 ct/kWh bis 10 kWp, 6,73 ct/kWh für den Anteil 10–40 kWp und 5,50 ct/kWh für 40–100 kWp. Die Vergütung ist ab Inbetriebnahme für 20 Jahre garantiert. [eeg-feedin-teileinspeisung-2026h1]\n- Wer den gesamten Strom einspeist (Volleinspeisung), erhält bei Inbetriebnahme 01.02.–31.07.2026 höhere Sätze: 12,34 ct/kWh bis 10 kWp und 10,35 ct/kWh für 10–100 kWp. Die Volleinspeisung muss vorab gewählt und dem Netzbetreiber gemeldet werden und lohnt sich v. a. bei geringem Eigenverbrauch. [eeg-feedin-volleinspeisung-2026h1]\n- Seit 25.02.2025 erhalten neue PV-Anlagen keine Einspeisevergütung für Strom, der in Zeiten negativer Börsenstrompreise eingespeist wird. Die entgangenen Stunden werden gesammelt und durch eine Verlängerung des Förderzeitraums nach den 20 Jahren ausgeglichen (\"Guthabenkonto\"). [solarspitzen-negative-preise-2025]\n- Neue PV-Anlagen dürfen so lange nur 60 % ihrer Nennleistung ins Netz einspeisen, bis ein intelligentes Messsystem (Smart Meter) und die netzorientierte Steuerung installiert sind. Mit Smart Meter und Steuerbarkeit entfällt die 60 %-Begrenzung. [solarspitzen-60-prozent-cap-2025]\n- Jede netzgekoppelte PV-Anlage UND jeder Batteriespeicher müssen unabhängig von der Größe innerhalb eines Monats nach Inbetriebnahme im Marktstammdatenregister (MaStR) der Bundesnetzagentur registriert werden. Ohne fristgerechte Registrierung drohen Verlust der Einspeisevergütung und Bußgelder (bis zu 50.000 €). [mastr-registrierung-pflicht]\n\n**Angekündigt / in Vorbereitung (noch nicht maßgeblich):**\n- Zum 01.08.2026 sinken die Vergütungssätze turnusmäßig weiter (Überschuss bis 10 kWp voraussichtlich ca. 7,71 ct/kWh, Volleinspeisung ca. 12,23 ct/kWh). Eine Inbetriebnahme vor dem Stichtag sichert noch die höheren Sätze für die volle 20-jährige Laufzeit. [eeg-feedin-degression-2026h2]\n- Politisch angekündigt bzw. diskutiert wird, die feste Einspeisevergütung für neue kleine PV-Anlagen (teils genannt: bis 25 kWp) zu reformieren oder durch markt-/systemorientierte Modelle (z. B. Direktvermarktung, CfD) zu ersetzen. Dies ist noch NICHT geltendes Recht; bestehende Zusagen für bereits in Betrieb genommene Anlagen sollen unberührt bleiben. [eeg-reform-2027-feedin-angekuendigt]\n\n**Veraltet (häufiges Missverständnis):**\n- Die frühere 70 %-Regel (Begrenzung der Einspeisung auf 70 % der Nennleistung für kleine Anlagen) ist NICHT mehr anzuwenden. Sie wurde mit dem EEG 2023 abgeschafft — für ab 2023 in Betrieb genommene Anlagen sofort, für Bestandsanlagen bis 7 kWp ebenfalls aufgehoben. Aktuell gilt stattdessen die 60 %-Regel des Solarspitzengesetzes (siehe solarspitzen-60-prozent-cap-2025). [eeg-70-prozent-regel-abgeschafft]",
+  "citations": [
+    {
+      "rule_id": "nbauo-pv-verfahrensfrei",
+      "source_name": "NBauO Anhang (zu § 60 Abs. 1) — verfahrensfreie Baumaßnahmen (Solaranlagen auf Dächern)",
+      "url": "https://voris.wolterskluwer-online.de/browse/document/ac680a18-a0da-381f-b48c-3913ddd3a00a",
+      "status": "valid",
+      "as_of": "2025-01-01"
+    },
+    {
+      "rule_id": "nbauo-pv-pflicht-neubau",
+      "source_name": "NBauO § 32a — Solarenergieanlagen zur Stromerzeugung auf Dächern (PV-Pflicht, Fassung ab 2025)",
+      "url": "https://voris.wolterskluwer-online.de/browse/document/f056c189-2143-307d-9a85-eb5d10b7fa52",
+      "status": "valid",
+      "as_of": "2025-01-01"
+    },
+    {
+      "rule_id": "msbg-smartmeter-pflicht",
+      "source_name": "Messstellenbetriebsgesetz (MsbG) § 29 ff. (Smart-Meter-Rollout); Solarspitzengesetz 2025",
+      "url": "https://www.gesetze-im-internet.de/messbg/__29.html",
+      "status": "valid",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "kfw-270-foerderkredit",
+      "source_name": "KfW – Program 270 'Renewable Energies – Standard'",
+      "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Erneuerbare-Energien-Standard-(270)/",
+      "status": "valid",
+      "as_of": "2026-05-01"
+    },
+    {
+      "rule_id": "bsnetz-pv-anmeldung-vde4105",
+      "source_name": "BS|NETZ – Photovoltaic systems / TAB NS Nord 2023",
+      "url": "https://www.bs-netz.de/privatkunden/bau-anschluss/photovoltaikanlagen/",
+      "status": "valid",
+      "as_of": "2024-03-01"
+    },
+    {
+      "rule_id": "eeg-feedin-teileinspeisung-2026h1",
+      "source_name": "EEG 2023 § 48 (anzulegende Werte für Solaranlagen); aktuelle Sätze: Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__48.html",
+      "status": "valid",
+      "as_of": "2026-02-01"
+    },
+    {
+      "rule_id": "eeg-feedin-volleinspeisung-2026h1",
+      "source_name": "EEG 2023 § 48 (anzulegende Werte für Solaranlagen); aktuelle Sätze: Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__48.html",
+      "status": "valid",
+      "as_of": "2026-02-01"
+    },
+    {
+      "rule_id": "solarspitzen-negative-preise-2025",
+      "source_name": "EEG 2023 § 51 / § 51a (Solarspitzengesetz 2025) — keine Vergütung bei negativen Preisen",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__51.html",
+      "status": "valid",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "solarspitzen-60-prozent-cap-2025",
+      "source_name": "EEG 2023 § 9 (Solarspitzengesetz 2025) i. V. m. MsbG — 60 %-Begrenzung",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+      "status": "valid",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "mastr-registrierung-pflicht",
+      "source_name": "Marktstammdatenregisterverordnung (MaStRV); Bundesnetzagentur MaStR",
+      "url": "https://www.marktstammdatenregister.de/",
+      "status": "valid",
+      "as_of": "2026-01-01"
+    },
+    {
+      "rule_id": "eeg-feedin-degression-2026h2",
+      "source_name": "EEG 2023 § 49 (Absenkung/Degression der Vergütung); Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__49.html",
+      "status": "announced",
+      "as_of": "2026-06-01"
+    },
+    {
+      "rule_id": "eeg-reform-2027-feedin-angekuendigt",
+      "source_name": "Political announcement / draft bill (EEG reform 2027) — media coverage",
+      "url": "https://www.bmwk.de/",
+      "status": "announced",
+      "as_of": "2026-05-01"
+    },
+    {
+      "rule_id": "eeg-70-prozent-regel-abgeschafft",
+      "source_name": "EEG 2023 § 9 (frühere 70 %-Regel, § 9 Abs. 2 EEG 2021, aufgehoben)",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+      "status": "expired",
+      "as_of": "2023-01-01"
+    }
+  ],
+  "applicable_rule_ids": [
+    "nbauo-pv-verfahrensfrei",
+    "nbauo-pv-pflicht-neubau",
+    "msbg-smartmeter-pflicht",
+    "kfw-270-foerderkredit",
+    "bsnetz-pv-anmeldung-vde4105",
+    "eeg-feedin-teileinspeisung-2026h1",
+    "eeg-feedin-volleinspeisung-2026h1",
+    "solarspitzen-negative-preise-2025",
+    "solarspitzen-60-prozent-cap-2025",
+    "mastr-registrierung-pflicht",
+    "eeg-feedin-degression-2026h2",
+    "eeg-reform-2027-feedin-angekuendigt",
+    "eeg-70-prozent-regel-abgeschafft"
+  ],
+  "sources": [
+    {
+      "rule_id": "nbauo-pv-verfahrensfrei",
+      "title": "NBauO: roof PV on a single-family home is exempt from a building permit",
+      "status": "valid",
+      "source_name": "NBauO Anhang (zu § 60 Abs. 1) — verfahrensfreie Baumaßnahmen (Solaranlagen auf Dächern)",
+      "url": "https://voris.wolterskluwer-online.de/browse/document/ac680a18-a0da-381f-b48c-3913ddd3a00a",
+      "as_of": "2025-01-01"
+    },
+    {
+      "rule_id": "nbauo-pv-pflicht-neubau",
+      "title": "NBauO § 32a: mandatory PV for new builds (Niedersachsen, since 2025)",
+      "status": "valid",
+      "source_name": "NBauO § 32a — Solarenergieanlagen zur Stromerzeugung auf Dächern (PV-Pflicht, Fassung ab 2025)",
+      "url": "https://voris.wolterskluwer-online.de/browse/document/f056c189-2143-307d-9a85-eb5d10b7fa52",
+      "as_of": "2025-01-01"
+    },
+    {
+      "rule_id": "msbg-smartmeter-pflicht",
+      "title": "MsbG: intelligent metering system (smart meter) for PV > 7 kW",
+      "status": "valid",
+      "source_name": "Messstellenbetriebsgesetz (MsbG) § 29 ff. (Smart-Meter-Rollout); Solarspitzengesetz 2025",
+      "url": "https://www.gesetze-im-internet.de/messbg/__29.html",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "kfw-270-foerderkredit",
+      "title": "KfW 270 'Renewable Energies – Standard' (subsidized loan)",
+      "status": "valid",
+      "source_name": "KfW – Program 270 'Renewable Energies – Standard'",
+      "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Erneuerbare-Energien-Standard-(270)/",
+      "as_of": "2026-05-01"
+    },
+    {
+      "rule_id": "bsnetz-pv-anmeldung-vde4105",
+      "title": "BS|NETZ: PV registration & grid compatibility check (Braunschweig)",
+      "status": "valid",
+      "source_name": "BS|NETZ – Photovoltaic systems / TAB NS Nord 2023",
+      "url": "https://www.bs-netz.de/privatkunden/bau-anschluss/photovoltaikanlagen/",
+      "as_of": "2024-03-01"
+    },
+    {
+      "rule_id": "eeg-feedin-teileinspeisung-2026h1",
+      "title": "EEG feed-in tariff (surplus feed-in), commissioning Feb–Jul 2026",
+      "status": "valid",
+      "source_name": "EEG 2023 § 48 (anzulegende Werte für Solaranlagen); aktuelle Sätze: Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__48.html",
+      "as_of": "2026-02-01"
+    },
+    {
+      "rule_id": "eeg-feedin-volleinspeisung-2026h1",
+      "title": "EEG feed-in tariff (full feed-in), commissioning Feb–Jul 2026",
+      "status": "valid",
+      "source_name": "EEG 2023 § 48 (anzulegende Werte für Solaranlagen); aktuelle Sätze: Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__48.html",
+      "as_of": "2026-02-01"
+    },
+    {
+      "rule_id": "solarspitzen-negative-preise-2025",
+      "title": "No payment during negative electricity prices (Solarspitzengesetz)",
+      "status": "valid",
+      "source_name": "EEG 2023 § 51 / § 51a (Solarspitzengesetz 2025) — keine Vergütung bei negativen Preisen",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__51.html",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "solarspitzen-60-prozent-cap-2025",
+      "title": "60% feed-in limit without smart meter / control (Solarspitzengesetz)",
+      "status": "valid",
+      "source_name": "EEG 2023 § 9 (Solarspitzengesetz 2025) i. V. m. MsbG — 60 %-Begrenzung",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+      "as_of": "2025-02-25"
+    },
+    {
+      "rule_id": "mastr-registrierung-pflicht",
+      "title": "Registration in the Marktstammdatenregister (MaStR, Core Energy Market Data Register) — mandatory within 1 month",
+      "status": "valid",
+      "source_name": "Marktstammdatenregisterverordnung (MaStRV); Bundesnetzagentur MaStR",
+      "url": "https://www.marktstammdatenregister.de/",
+      "as_of": "2026-01-01"
+    },
+    {
+      "rule_id": "eeg-feedin-degression-2026h2",
+      "title": "Announced reduction of the feed-in tariff from August 2026",
+      "status": "announced",
+      "source_name": "EEG 2023 § 49 (Absenkung/Degression der Vergütung); Bundesnetzagentur",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__49.html",
+      "as_of": "2026-06-01"
+    },
+    {
+      "rule_id": "eeg-reform-2027-feedin-angekuendigt",
+      "title": "Announced/discussed: reform of support for small PV (EEG reform 2027)",
+      "status": "announced",
+      "source_name": "Political announcement / draft bill (EEG reform 2027) — media coverage",
+      "url": "https://www.bmwk.de/",
+      "as_of": "2026-05-01"
+    },
+    {
+      "rule_id": "eeg-70-prozent-regel-abgeschafft",
+      "title": "70% active power limit — abolished (outdated)",
+      "status": "expired",
+      "source_name": "EEG 2023 § 9 (frühere 70 %-Regel, § 9 Abs. 2 EEG 2021, aufgehoben)",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+      "as_of": "2023-01-01"
+    }
+  ],
+  "clarifying_questions": [],
+  "disclaimer": "Diese Auskunft ist eine quellenbasierte Orientierung und nicht rechtsverbindlich. Maßgeblich sind die jeweils geltenden Originalquellen und die Prüfung durch einen Fachbetrieb."
+}
